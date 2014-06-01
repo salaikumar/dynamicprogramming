@@ -68,7 +68,7 @@ public class Matrix {
 			}
 
 		} catch (FileNotFoundException e) {
-			System.out.println("No such file exists");
+			System.out.println("No such file exists with that name");
 			e.printStackTrace();
 		}
 
